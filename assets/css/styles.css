@@ -1,0 +1,56 @@
+h1 {
+	background-image: linear-gradient(rgb(23, 23, 104), rgb(72, 122, 230));
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom:15px;
+	color:aliceblue
+	
+}
+label {
+	margin-top: 10px;
+	font-weight: bold;
+	font-size: 20px;
+}
+.card {
+	margin: 10px;
+}
+.colOne {
+	background-image: linear-gradient(rgb(23, 23, 104), rgb(72, 122, 230));
+	color:aliceblue;
+}
+.colTwo {
+	background-color: rgb(255, 255, 255);
+}
+.histBtnRow {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+h4{
+	text-align: center;
+	font-size: small;
+	background-color: black;
+	color: aliceblue;
+}
+.green{
+  background-color: lightgreen;
+}
+.yellow{
+  background-color: yellow;
+}
+.orange{
+  background-color: orange;
+}
+.red{
+  background-color: red;
+}
+.purple{
+  background-color: purple;
+}
+.icons {
+	height: 70px;
+	width: 70px;
+}
+.cardTodayDate {
+	font-size: 20px;
+}
