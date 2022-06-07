@@ -2,12 +2,11 @@ h1 {
 	background-image: linear-gradient(rgb(23, 23, 104), rgb(72, 122, 230));
 	text-align: center;
 	padding-top: 15px;
-	padding-bottom:15px;
 	color:aliceblue
 	
 }
 label {
-	margin-top: 10px;
+	
 	font-weight: bold;
 	font-size: 20px;
 }
@@ -31,6 +30,7 @@ h4{
 	font-size: small;
 	background-color: black;
 	color: aliceblue;
+	margin: 0;
 }
 .green{
   background-color: lightgreen;
